@@ -1,0 +1,4 @@
+.virtual
+build
+*.egg-info
+dist
